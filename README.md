@@ -14,6 +14,11 @@
 - Analyze customer purchasing behavior and preferences.
 - Evaluate the effectiveness of sales strategies and campaigns.
 
+## Demo
+https://app.powerbi.com/groups/me/reports/5a8e33b5-e25e-4e6e-b9e8-58562d336702/ReportSectione377091b0ed9550c3120?experience=power-bi
+
+![ezgif com-video-to-gif (1)](https://github.com/Analytic-Ally/Business_Analytics/assets/149322654/de9ae8ca-24bb-49ba-834e-c1e73d5b25b8)
+
 ## Marketing Data Analysis:
 
 - Assess the performance of marketing campaigns and channels.
@@ -25,10 +30,6 @@
 - Optimize inventory management by analyzing supply and demand trends.
 - Evaluate supplier performance and identify potential cost-saving opportunities.
 - Enhance overall supply chain efficiency through data-driven insights.
-## Demo
-https://app.powerbi.com/groups/me/reports/5a8e33b5-e25e-4e6e-b9e8-58562d336702/ReportSectione377091b0ed9550c3120?experience=power-bi
-
-![ezgif com-video-to-gif (1)](https://github.com/Analytic-Ally/Business_Analytics/assets/149322654/de9ae8ca-24bb-49ba-834e-c1e73d5b25b8)
 
 ## Acknowledgements
 
